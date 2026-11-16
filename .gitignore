@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+backend/app/luxe_lane.sqlite3
+backend/app/luxe_lane.sqlite3-shm
+backend/app/luxe_lane.sqlite3-wal
+.env
+.venv/
